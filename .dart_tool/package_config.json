@@ -123,7 +123,7 @@
     },
     {
       "name": "transformer_page_view",
-      "rootUri": "file:///Users/huangyi/Documents/flutter/.pub-cache/git/transformer_page_view-7ab8b054a1bce1a402ce47b6bfbd66dbd42c59ce/",
+      "rootUri": "file:///Users/huangyi/Documents/flutter/.pub-cache/git/transformer_page_view-f3c2b8422084f3ea0747001d52915d9d8b847ac8/",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -146,7 +146,7 @@
       "languageVersion": "2.0"
     }
   ],
-  "generated": "2021-04-28T03:34:42.512561Z",
+  "generated": "2021-05-06T03:16:39.520115Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }
